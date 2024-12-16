@@ -9,3 +9,5 @@ My portfolio for all things code.
 **Experiences:** I have taken semesterly coding classes for the past four years, started with intro to coding 7th grade, followed by intro to python 8th grade, exploring computer science 9th grade, and game development fundamentals 10th grade.
 
 **Email:** 9630126@graniteschools.org
+
+**Games Made:** Rusted Ring, Shape Game, Cars. Links provided here:
