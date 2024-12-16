@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 My portfolio for all things code.
 
